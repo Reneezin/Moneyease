@@ -1,0 +1,38 @@
+body {
+    background-color: #005c95;
+    color: #FFFFFF;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 10px;
+    padding: 20px;
+    width: 100%;
+}
+
+.text-primary {
+    color: #005C97 
+}
+
+.btn-success {
+    background-color: #4CAF50;
+    border-color: #4CAF50;
+}
+
+.text-secondary {
+    color: #CCCCCC 
+}
+
+.text-muted {
+    color: #CCCCCC 
+}
